@@ -42,7 +42,6 @@
 - [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
 - [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
 - [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
-- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
 - [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
 - [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
 
@@ -570,7 +569,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - [ ] value_n_from_end(n) - returns the value of the node at nth position from the end of the list
         - [ ] reverse() - reverses the list
         - [ ] remove_value(value) - removes the first item in the list with this value
-    - [ ] Doubly-linked List
+    - [X] Doubly-linked List
         - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
         - No need to implement
 
